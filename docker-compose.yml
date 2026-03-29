@@ -1,9 +1,9 @@
 services:
   backend:
     build:
-      context: ./backend
+      context: ./test
       dockerfile: Dockerfile
     ports:
       - "5001:5000"
     volumes:
-      - ./backend:/app
+      - ./test:/app
