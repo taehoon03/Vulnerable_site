@@ -219,11 +219,6 @@ chulsoo  / kim5678    / 010-1111-2222
 vulnerable_site/
 ├── docker-compose.yml
 ├── README.md
-├── screenshots/
-│   ├── sql_injection.png
-│   ├── xss.png
-│   ├── csrf.png
-│   └── bruteforce.png
 ├── frontend/               ← 사이트 A (학습)
 │   ├── src/
 │   ├── package.json
@@ -258,10 +253,8 @@ vulnerable_site/
 
 | 이름 | 역할 |
 |------|------|
-| **태훈** | 백엔드 + 취약점 구현 (Python/Flask) |
-| **팀원 1** | 프론트엔드 (React + TypeScript) |
-| **팀원 2** | Docker 환경 구성 |
-| **팀원 3** | 실시간 시각화 |
+|  본인 | 백엔드 + 취약점 구현 (Python/Flask) |
+| **팀원1,2| 프론트엔드 (React + TypeScript) |
 
 ---
 
